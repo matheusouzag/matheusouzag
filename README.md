@@ -5,7 +5,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)]([https://twitch.tv/fragabr](https://www.google.com/search?q=teste&oq=teste&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQABiDARixAxiABDINCAIQABiDARixAxiABDITCAMQLhiDARjHARixAxjRAxiABDINCAQQABiDARixAxiABDINCAUQABiDARixAxiABDINCAYQABiDARixAxiABDINCAcQABiDARixAxiABDIHCAgQABiABDIHCAkQABiABNIBBzQ5NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8))
 
 ![byron GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusouzag&show_icons=true&theme=‘transparent’)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ## Tecnologias em que estou capacitado:
 
