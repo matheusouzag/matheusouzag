@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/sujeitoprogramador](https://www.google.com/search?q=teste&oq=teste&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQABiDARixAxiABDINCAIQABiDARixAxiABDITCAMQLhiDARjHARixAxjRAxiABDINCAQQABiDARixAxiABDINCAUQABiDARixAxiABDINCAYQABiDARixAxiABDINCAcQABiDARixAxiABDIHCAgQABiABDIHCAkQABiABNIBBzQ5NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8))
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)]([https://twitch.tv/fragabr](https://www.google.com/search?q=teste&oq=teste&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQABiDARixAxiABDINCAIQABiDARixAxiABDITCAMQLhiDARjHARixAxjRAxiABDINCAQQABiDARixAxiABDINCAUQABiDARixAxiABDINCAYQABiDARixAxiABDINCAcQABiDARixAxiABDIHCAgQABiABDIHCAkQABiABNIBBzQ5NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8))
 
-![Matheus GitHub stats]([https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true](https://www.google.com/search?q=teste&oq=teste&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQABiDARixAxiABDINCAIQABiDARixAxiABDITCAMQLhiDARjHARixAxjRAxiABDINCAQQABiDARixAxiABDINCAUQABiDARixAxiABDINCAYQABiDARixAxiABDINCAcQABiDARixAxiABDIHCAgQABiABDIHCAkQABiABNIBBzQ5NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8))
+![byron GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusouzag&show_icons=true&theme=‘transparent’)
 
 ## Tecnologias que eu uso no meu dia
 
