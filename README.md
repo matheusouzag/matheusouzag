@@ -1,10 +1,16 @@
-## Olá! Eu sou o Matheus Souza 🦘
+## Olá! Eu sou o byroniano <img src="https://media.tenor.com/9uRejMMYygEAAAAi/kangaroo-joypixels.gif" height="30" alt="Kangaroo Joypixels Sticker">
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/c/sujeitoprogramador](https://www.google.com/search?q=teste&oq=teste&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQABiDARixAxiABDINCAIQABiDARixAxiABDITCAMQLhiDARjHARixAxjRAxiABDINCAQQABiDARixAxiABDINCAUQABiDARixAxiABDINCAYQABiDARixAxiABDINCAcQABiDARixAxiABDIHCAgQABiABDIHCAkQABiABNIBBzQ5NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8))
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/matheusouzag/matheusouzag/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+&nbsp;&nbsp;&nbsp;
+
+
+
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/matheusouzag/385477a6691bb39e07ad009eb13a4df0/raw/70d8e843bbb3ed51751d5e88d87387c6fdad9c46/githubcard.svg"/>
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/sujeitoprogramador](https://www.google.com/search?q=teste&oq=teste&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQABiDARixAxiABDINCAIQABiDARixAxiABDITCAMQLhiDARjHARixAxjRAxiABDINCAQQABiDARixAxiABDINCAUQABiDARixAxiABDINCAYQABiDARixAxiABDINCAcQABiDARixAxiABDIHCAgQABiABDIHCAkQABiABNIBBzQ5NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8))
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)]([https://twitch.tv/fragabr](https://www.google.com/search?q=teste&oq=teste&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQABiDARixAxiABDINCAIQABiDARixAxiABDITCAMQLhiDARjHARixAxjRAxiABDINCAQQABiDARixAxiABDINCAUQABiDARixAxiABDINCAYQABiDARixAxiABDINCAcQABiDARixAxiABDIHCAgQABiABDIHCAkQABiABNIBBzQ5NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8))
 
-  ![byron GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusouzag&show_icons=true&theme=‘transparent’)
+
+![byron GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusouzag&show_icons=true&theme=‘transparent’)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
