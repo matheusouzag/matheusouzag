@@ -1,5 +1,5 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/matheusouzag/385477a6691bb39e07ad009eb13a4df0/raw/70d8e843bbb3ed51751d5e88d87387c6fdad9c46/githubcard.svg"/>
+<img align="right" width="40%" height="590em" src="https://raw.githubusercontent.com/gist/matheusouzag/385477a6691bb39e07ad009eb13a4df0/raw/70d8e843bbb3ed51751d5e88d87387c6fdad9c46/githubcard.svg"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=30&duration=1000&pause=1000&color=25BBF1&vCenter=true&width=435&lines=Ol%C3%A1!;Eu+sou+o+byroniano)](https://git.io/typing-svg)
 
