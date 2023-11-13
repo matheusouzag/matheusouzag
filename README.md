@@ -9,7 +9,7 @@
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 <!-- Responsável pelo stats do perfil -->
-<img src="https://github-readme-stats.vercel.app/api?username=projetosbyronsolutions&show_icons=true&theme=github_dark" alt="byron GitHub stats" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=matheusouzag&show_icons=true&theme=github_dark" alt="byron GitHub stats" width="50%">
 
 ## Tecnologias em que estou capacitado:
 
@@ -32,7 +32,7 @@
 
 
 <!-- Responsável pelo gráfico de atividade -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="projetosbyronsolutions's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=projetosbyronsolutions&bg_color=0c1116&color=FFFFFF&line=25BBF1&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="matheusouzag's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=matheusouzag&bg_color=0c1116&color=FFFFFF&line=25BBF1&point=FFFFFF&hide_border=true" /></a>
 
 <!-- Responsável pelo footer -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
