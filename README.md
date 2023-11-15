@@ -35,5 +35,5 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="matheusouzag's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=matheusouzag&bg_color=0c1116&color=FFFFFF&line=25BBF1&point=FFFFFF&hide_border=true" /></a>
 
 <!-- Responsável pelo footer -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
 
