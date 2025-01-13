@@ -27,11 +27,6 @@
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div><br/>
 
-<!-- Responsável pela sua descrição -->
-### Descrição:
-
-<p>Seja bem vindo ao meu perfil!<p/>
-
 <!-- Responsável pelo gráfico de atividade -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="matheusouzag's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=matheusouzag&bg_color=0c1116&color=FFFFFF&line=25BBF1&point=FFFFFF&hide_border=true" /></a>
 
