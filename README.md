@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=30&duration=1000&pause=1000&color=25BBF1&vCenter=true&width=435&lines=Ol%C3%A1!;Meu+nome+é+Matheus;)](https://git.io/typing-svg) 
 
 <!-- Responsável pelo gif ao lado -->
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<img align='right' src='https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif' width='200'>
 
 <!-- Responsável pelas badges das redes sociais -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/math_souzag/)
