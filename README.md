@@ -9,7 +9,6 @@
 
 
 <!-- Responsável pelo stats do perfil -->
-<img src="https://github-readme-stats.vercel.app/api?username=matheusouzag&show_icons=true&theme=github_dark" alt="byron GitHub stats" width="50%">
 
 ## Tecnologias em que estou capacitado:
 
